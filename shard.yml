@@ -1,0 +1,13 @@
+name: filechecker
+version: 0.1.0
+
+authors:
+  - unn4m3d <smelnikov871@gmail.com>
+
+dependencies:
+  version:
+    github: unn4m3d/version
+
+crystal: 0.24.1
+
+license: MIT
